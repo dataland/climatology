@@ -17,6 +17,9 @@
       },
       "api": {
         "climatology": {}
+      },
+      "storage": {
+        "test980": {}
       }
     }
   }

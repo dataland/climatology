@@ -1,0 +1,14 @@
+{
+  "resourceName": "test980",
+  "policyUUID": "cfdc7c07",
+  "bucketName": "bucket-test-7890",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
