@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "climatology644807c8": {}
+      },
+      "api": {
+        "climatology": {}
       }
     }
   }
